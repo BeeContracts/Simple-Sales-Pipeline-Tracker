@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+pipeline_data.json
+.vscode/
+.DS_Store
