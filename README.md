@@ -1,3 +1,4 @@
+<img width="1914" height="1031" alt="Screenshot 2026-03-25 210919" src="https://github.com/user-attachments/assets/53427e8b-7000-4b6a-90a9-8ccc046e3f85" />
 # Sales Pipeline Tracker
 
 A desktop GUI app for tracking leads, managing pipeline stages, setting follow-up dates, filtering by status, and exporting data to JSON or CSV.
